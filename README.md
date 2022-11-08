@@ -1,6 +1,6 @@
 ![Hello_world!](https://user-images.githubusercontent.com/46730823/138362403-6660e237-20f7-4685-9653-6cae9a2d6ec4.png)
 
-### :computer: I’m an undergraduate CS student at Athens University of Economics and Business(AUEB) 
+### :computer: I’m an undergraduate CS student at Athens University of Economics and Business(AUEB), during my last semestre of studies and a passionate junior DevOps engineer
 
 The purpose of this github page is hosting my favourite repositories and exploring new frameworks!
 
